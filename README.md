@@ -51,6 +51,6 @@
 
 <br>
 <p align="center">
-<a <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/jrus-gar?1337Badge=off&UM6P=off" alt="abolivar's 42 stats" /></a>
+<a <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/abolivar?1337Badge=off&UM6P=off" alt="abolivar's 42 stats" /></a>
 </p>
 <br>
