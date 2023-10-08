@@ -28,4 +28,16 @@
 
 ## 🧑‍💻 My Current Technical Skills
 
-![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,git,html,css,github,python)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,git,html,css,github,python)]
+
+> :desktop_computer:  Languages - C | Python | Bash | HTML | CSS 
+
+> :hammer_and_wrench:  Tools -  Git | GitHub 
+
+> :atom:  IDEs -  Clion | Vim | Visual Studio Code
+
+<br>
+
+## ✨ <a href="https://github.com/Yuukiio?tab=repositories"> <code> Proyects </code></a>
+
+<br>
