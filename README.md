@@ -16,4 +16,12 @@
 
 ## 💻 Skills I'm Currently Acquiring
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,cpp,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,cpp,bash,linux)](https://skillicons.dev)
+
+
+> :desktop_computer:  Languages - Python | C | CPP | Java
+
+> :fire: 
+  
+> :framed_picture:  Cybersecurity -  Bash | Linux
+<br>
