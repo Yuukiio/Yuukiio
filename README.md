@@ -28,7 +28,7 @@
 
 ## 🧑‍💻 My Current Technical Skills
 
-![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,git,html,css,github,python)]
+![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,git,html,css,github,python)
 
 > :desktop_computer:  Languages - C | Python | Bash | HTML | CSS 
 
@@ -39,5 +39,11 @@
 <br>
 
 ## ✨ <a href="https://github.com/Yuukiio?tab=repositories"> <code> Proyects </code></a>
+
+<br>
+
+## [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://es.linkedin.com/in/brian-riveiro-del-rio-218b441a0) Connect With Me On [LinkedIn]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuukiio&layout=compact&theme=dark&hide_border=true)
 
 <br>
