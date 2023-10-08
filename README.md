@@ -21,7 +21,11 @@
 
 > :desktop_computer:  Languages - Python | C | CPP | Java
 
-> :fire: 
+> :fire: OS - MacOS | ParrotOS | W11
   
 > :framed_picture:  Cybersecurity -  Bash | Linux
 <br>
+
+## 🧑‍💻 My Current Technical Skills
+
+![My Skills](https://skillicons.dev/icons?i=c,bash,vim,clion,git,html,css,github,pycharm,python)](https://skillicons.dev)
