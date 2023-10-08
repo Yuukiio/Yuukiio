@@ -16,4 +16,4 @@
 
 ## 💻 Skills I'm Currently Acquiring
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,cpp,shell)](https://skillicons.dev)
