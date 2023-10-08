@@ -9,7 +9,7 @@
 ---
 
 - 🔭 I’m currently studying CiberSecurity and Software Developer in **<a href="https://www.42malaga.com/"> 42 Malaga</a>**
-- 👀 I’m interested in Python, CiberSecurity, C, Java and IA
+- 👀 I’m interested on Python, CiberSecurity, C, Java and IA
 - 🌱 Currently working in Python, C & Java
 - 🎓 Soon to be studying Daw, Dam & Software Engineering
 <br>
