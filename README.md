@@ -28,4 +28,4 @@
 
 ## 🧑‍💻 My Current Technical Skills
 
-![My Skills](https://skillicons.dev/icons?i=c,bash,vim,clion,git,html,css,github,pycharm,python)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,git,html,css,github,python)](https://skillicons.dev)
