@@ -10,6 +10,10 @@
 
 - 🔭 I’m currently studying CiberSecurity and Software Developer in **<a href="https://www.42malaga.com/"> 42 Malaga</a>**
 - 👀 I’m interested in Python, CiberSecurity, C, Java and IA
-- 🌱 Currently working in Python, C, C# and I help as a volunteer representative "Sensei" in 42 malaga Telefonica.
-- 🎓 Certified Developer Freelancer
+- 🌱 Currently working in Python, C & Java
+- 🎓 Soon to be studying Daw, Dam & Software Engineering
 <br>
+
+## 💻 Skills I'm Currently Acquiring
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,cpp)](https://skillicons.dev)
