@@ -47,3 +47,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuukiio&layout=compact&theme=dark&hide_border=true)
 
 <br>
+
+
+<br>
+<p align="center">
+<a <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/jrus-gar?1337Badge=off&UM6P=off" alt="abolivar's 42 stats" /></a>
+</p>
+<br>
