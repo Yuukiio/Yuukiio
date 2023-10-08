@@ -4,7 +4,7 @@
 
 ---
 
-#### Currently studying to become a C & CiberSecurity Developer 💻
+#### Currently studying to become a Software & CiberSecurity Developer 💻
 
 ---
 
