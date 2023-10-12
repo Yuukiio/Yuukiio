@@ -38,11 +38,20 @@
 
 <br>
 
-## ✨ <a href="https://github.com/Yuukiio?tab=repositories"> <code> Proyects </code></a>
+## 💾 Projects
+|	Name												|	Description										|
+|-------------------------------------------------------|---------------------------------------------------|
+|	[Libft](https://github.com/Yuukiio/Libft) |  First project at 42malaga						|
+|	[Pseint](https://github.com/Yuukiio/Pseint)		| Projects that I do for my highschool	|
+| [Yuukiio](https://github.com/Yuukiio/Yuukiio) | My own-design readme|
 
 <br>
 
-## [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://es.linkedin.com/in/brian-riveiro-del-rio-218b441a0) Connect With Me On [LinkedIn]
+## ➡️ Contact me on: 
+[![X](https://img.shields.io/static/v1?label=&message=Twitter&color=171515&logo=X&logoColor=white&style=for-the-badge)]
+[![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=FF69B4&logo=instagram&logoColor=red&style=for-the-badge)]
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)]
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuukiio&layout=compact&theme=dark&hide_border=true)
 
