@@ -3,7 +3,7 @@
 # HI, I am Adam Bolívar as Yuukiio from Spain 🇪🇦
  <p>
         <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma nativo"/>
-   <a href="/languages/README-jp.md">
+   <a href="/languages/README-en.md">
             <img src="https://img.shields.io/badge/N1-🇯🇵-%23aaaaaa.svg?style=flat" alt="Segundo idioma"/>
         <a>
         <a href="/languages/README-en.md">
