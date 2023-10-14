@@ -1,6 +1,18 @@
 <p align="center"><img width=15%" src="https://github.com/includebraga/hello-world-gif/blob/master/gif/includebraga.gif" alt="Hello all" /></p>
 
 # HI, I am Adam Bolívar as Yuukiio from Spain 🇪🇦
+ <p>
+        <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma nativo"/>
+   <a href="/languages/README-jp.md">
+            <img src="https://img.shields.io/badge/N1-🇯🇵-%23aaaaaa.svg?style=flat" alt="Segundo idioma"/>
+        <a>
+        <a href="/languages/README-en.md">
+            <img src="https://img.shields.io/badge/B2-🇬🇧-%23aaaaaa.svg?style=flat" alt="Segundo idioma"/>
+        <a>
+        <a href="/languages/README-fr.md">
+            <img src="https://img.shields.io/badge/A2-🇫🇷-%23aaaaaa.svg?style=flat" alt="Tercer idioma"/>
+        </a>
+    </p>
 
 ---
 
