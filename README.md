@@ -15,10 +15,10 @@
 
 ---
 
-- 🔭 I’m currently studying CiberSecurity and Software Developer in **<a href="https://www.42malaga.com/"> 42 Malaga</a>**
-- 👀 I’m interested on Python, CiberSecurity, C, Java and IA
+- 🔭 I’m currently studying CyberSecurity and Software Developer in **<a href="https://www.42malaga.com/"> 42 Malaga</a>**
+- 👀 I’m interested on Python, CyberSecurity, C, Java and IA
 - 🌱 Currently working in Python, C & Java
-- 🎓 Soon to be studying Daw, Dam & Software Engineering
+- 🎓 42 Malaga
 <br>
 
 ## 💻 Skills I'm Currently Acquiring
