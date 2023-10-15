@@ -48,7 +48,8 @@
 ## 💾 Projects
 |	Name												|	Description										|
 |-------------------------------------------------------|---------------------------------------------------|
-|	[Libft](https://github.com/Yuukiio/Libft) |  First project at 42malaga						|
+|	[Libft](https://github.com/Yuukiio/Libft) |  First project at 42malaga |
+| [Printf](https://github.com/Yuukiio/Printf) | Second project at 42malaga |
 |	[Pseint](https://github.com/Yuukiio/Pseint)		| Projects that I do for my highschool	|
 | [Yuukiio](https://github.com/Yuukiio/Yuukiio) | My own-design readme|
 
