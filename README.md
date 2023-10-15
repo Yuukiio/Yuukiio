@@ -6,8 +6,8 @@
         <img src="https://img.shields.io/badge/N1-🇯🇵-%23aaaaaa.svg?style=flat" alt="Segundo idioma"/>
         <img src="https://img.shields.io/badge/B2-🇬🇧-%23aaaaaa.svg?style=flat" alt="Segundo idioma"/>
         <img src="https://img.shields.io/badge/A2-🇫🇷-%23aaaaaa.svg?style=flat" alt="Tercer idioma"/>
-       
-  </p>
+        <img src="https://komarev.com/ghpvc/?username=Yuukiio" alt="Profile views"/>
+   </p>
 
 ---
 
