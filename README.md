@@ -67,6 +67,6 @@
 
 <br>
 <p align="center">
-<a <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/abolivar?1337Badge=off&UM6P=off" alt="abolivar's 42 stats" /></a>
+<a <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/abolivar?1337Badge=off&UM6P=off" alt="abolivar's 42 stats" /></a>
 </p>
 <br>
